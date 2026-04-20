@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<movie xmlns="https://www.example.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="https://www.example.com activity03.xsd">
+  <cinema>2</cinema>
+  <director>James Cameron</director>
+  <rated>PG-13</rated>
+  <title>Avatar</title>
+  <releaseYear>2009</releaseYear>
+</movie>
